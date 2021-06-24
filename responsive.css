@@ -1,0 +1,48 @@
+@media all and(max-width:1204px){
+
+}
+
+
+@media all and (max-width:1400px){
+    margin-right: 30px;
+}
+
+
+
+
+
+@media all and (max-width:992px){
+    .logo-bar span h4{
+        font-size: 15px;
+        padding: 10px;
+        display: block;
+    }
+    .header-menue{
+        padding: 10px;
+        margin-right: 200px;
+
+    
+    }
+    .detiless {
+        padding: 149px;
+        /* box-sizing: border-box; */
+        margin: auto;
+        display: inline-block;
+        text-align: center;
+        width: 66%;
+        box-sizing: content-box;
+    }
+    .slider3-img{
+        margin-top:30px
+    margin: right 30px;
+    }
+}
+
+@media all and (max-width:768px){
+    .number-counter {
+        background: #8490ff;
+        padding: 20px;
+        margin-top: -118px;
+        text-align: center;
+    }
+}
